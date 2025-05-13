@@ -16,11 +16,11 @@ This project is an Excel dashboard that analyzes chocolate sales data from Janua
 
 ##  Key Insights
 
-Top Product by Revenue: *Smooth Silky Salty* – \$349,692
-Most Shipped Product: *50% Dark Bars* – 9,792 boxes
-Top Country by Revenue: *Australia* – $1.13M
-Top Salesperson by Revenue: Chess Bonnel
-Peak Sales Month: January (896,105 revenue units), with steady performance in July–August
+*Top Product by Revenue: *Smooth Silky Salty* – \$349,692
+*Most Shipped Product: *50% Dark Bars* – 9,792 boxes
+*Top Country by Revenue: *Australia* – $1.13M
+*Top Salesperson by Revenue: Chess Bonnel
+*Peak Sales Month: January (896,105 revenue units), with steady performance in July–August
 
 
 ##  Visuals & Dashboard Features
@@ -33,11 +33,11 @@ Peak Sales Month: January (896,105 revenue units), with steady performance in Ju
 
 ## Recommendations
 
-  Expand marketing for *Smooth Silky Salty* – top revenue earner.
-  Push high-demand items like *50% Dark Bars* during sales seasons.
-  Strengthen regional sales operations in *Australia*.
-  Emulate strategies of top salespeople across the team.
-  Focus campaigns during *June–August* to match peak sales trend.
+*Expand marketing for *Smooth Silky Salty* – top revenue earner.
+*Push high-demand items like *50% Dark Bars* during sales seasons.
+*Strengthen regional sales operations in *Australia*.
+*Emulate strategies of top salespeople across the team.
+*Focus campaigns during *June–August* to match peak sales trend.
 
 ##  About Me
 
